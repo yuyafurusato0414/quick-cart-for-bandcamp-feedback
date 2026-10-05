@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Report a bug / バグを報告
+    url: https://docs.google.com/forms/d/e/1FAIpQLSdsyMJ8AvkXipRZgExJQ9VeoIY3EHtf088GyBoBJ-MerUEWRg/viewform
+    about: No sign-in required / ログイン不要
